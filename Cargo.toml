@@ -1,5 +1,5 @@
 [package]
-name = "vk_proj_1_min_example_segfault"
+name = "vk_proj_1_min_example_capacity_overflow"
 version = "0.1.0"
 authors = ["dmyTRUEk <m.dmytruk21@gmail.com>"]
 edition = "2018"
